@@ -1,7 +1,10 @@
-## Hi there 👋
+### Fullstack Developer | Ingeniero en Sistemas
 
+¡Hola! 👋 Soy un desarrollador fullstack apasionado por crear soluciones tecnológicas.Cuento con experiencia en el desarrollo de aplicaciones web, manejando tanto el frontend como el backend.
 
-**Decxis/Decxis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+En este repositorio encontrarás proyectos personales y profesionales donde aplico tecnologías como **JavaScript**, **React**, **Java**, **Spring Boot**, bases de datos **SQL/NoSQL** y más. 
+
+¡No dudes en explorar mis proyectos y contactarme si tienes alguna pregunta o idea para colaborar! 🚀
 
 <p align="center">
   <a href="https://skillicons.dev">
