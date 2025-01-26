@@ -2,9 +2,11 @@
 
 ¡Hola! 👋 Soy un desarrollador fullstack apasionado por crear soluciones tecnológicas.Cuento con experiencia en el desarrollo de aplicaciones web, manejando tanto el frontend como el backend.
 
-En este repositorio encontrarás proyectos personales y profesionales donde aplico tecnologías como **JavaScript**, **React**, **Java**, **Spring Boot**, bases de datos **SQL/NoSQL** y más. 
+En este repositorio encontrarás proyectos donde aplico tecnologías como **JavaScript**, **React**, **Java**, **Spring Boot**, bases de datos **SQL/NoSQL** y más. 
 
 ¡No dudes en explorar mis proyectos y contactarme si tienes alguna pregunta o idea para colaborar! 🚀
+
+<h1 align="center"> 👨‍💻 Lenguajes y Tecnologías </h1>
 
 <p align="center">
   <a href="https://skillicons.dev">
